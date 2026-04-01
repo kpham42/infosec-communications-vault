@@ -7,7 +7,7 @@
 
 This vault is a living knowledge base for an information security communications internship this upcoming summer and fall. It tracks my technical growth, red teaming work, policy communications, and learning as an aspiring technical communications engineer and AI safety professional.
 
-Of course, this is only the public template. No sensitive information can be found here. This basic structure is for demostrative purposes only. 
+Of course, this is just a public template with placeholder whitespace. No sensitive information about my employer can be found here. This basic structure is for demostrative purposes only. 
 
 ---
 
