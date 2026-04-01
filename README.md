@@ -93,9 +93,9 @@ Install these from Obsidian Community Plugins:
 
 ---
 
-## ⭐ Agentic AI Governance — Priority Focus
+## Agentic AI Governance — Priority Focus
 
-Bentley's Illuminate 2026 events centered on AI Agents and Connected Data environments. Internal AI agents that take actions in infrastructure software (not just answer questions) represent an entirely different threat surface than standard LLM deployments.
+Internal AI agents that take actions in infrastructure software (not just answer questions) represent an entirely different threat surface than standard LLM deployments.
 
 **The folder `05_Agentic_AI_Governance/` exists specifically for this.**
 
