@@ -1,11 +1,13 @@
-# 🔐 Kevin Pham — Bentley InfoSec Internship Vault
-## Summer and Fall 2026 | Tufts Cybersecurity & Public Policy
+# Kevin Pham — Security Communications Internship Vault and Knowledge
+## Summer 2026
 
 ---
 
 ## Vault Purpose
 
-This vault is a living knowledge base for the Bentley Systems Fall 2026 InfoSec internship. It tracks technical growth, red teaming work, policy communications, and learning — across the dual identity of **Technical Communications Engineer** and **AI Safety practitioner**.
+This vault is a living knowledge base for an information security communications internship this upcoming summer and fall. It tracks my technical growth, red teaming work, policy communications, and learning as an aspiring technical communications engineer and AI safety professional.
+
+Of course, this is only the public template. No sensitive information can be found here. This basic structure is for demostrative purposes only. 
 
 ---
 
