@@ -105,7 +105,7 @@ Key focus areas:
 - Memory Poisoning (Agentic-03): Can persistent agent memory be corrupted to change future behavior?
 - Privilege escalation through chained tool calls in digital twin environments
 
-Red teaming agentic systems at a company like Bentley — where AI agents may eventually interface with infrastructure data — is legitimately advanced work. Document everything.
+Red teaming agentic systems at SaaS companies — where AI agents may eventually interface with infrastructure data — is legitimately advanced work. Document everything.
 
 ---
 
